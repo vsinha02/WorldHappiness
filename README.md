@@ -1,7 +1,7 @@
-# World Happiness Report
+## World Happiness Report
 ## Performing data preparation, cleaning, EDA, geospatial analysis (JSON shapefile), regression analysis, cluster analysis (k-means), and time-series analysis with Python. Employing Seaborn, Matplotlib and Plotly to create appropriate visualisations.
 
-# Context
+
 ## Context
 The World Happiness Report is an annual publication that explores the factors contributing to human well-being, the happiness ratings of countries and the importance of measuring happiness. Experts use responses from people in more than 140 nations to rank the world’s ‘happiest’ countries. Respondents are asked to rate their lives on a scale from 0 (worst) to 10 (best) using the Cantril Ladder.
 
