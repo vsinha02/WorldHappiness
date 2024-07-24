@@ -1,5 +1,5 @@
-## World Happiness Report
-## Performing data preparation, cleaning, EDA, geospatial analysis (JSON shapefile), regression analysis, cluster analysis (k-means), and time-series analysis with Python. Employing Seaborn, Matplotlib and Plotly to create appropriate visualisations.
+# World Happiness Report
+Performing data preparation, cleaning, EDA, geospatial analysis (JSON shapefile), regression analysis, cluster analysis (k-means), and time-series analysis with Python. Employing Seaborn, Matplotlib and Plotly to create appropriate visualisations.
 
 
 ## Context
@@ -17,8 +17,11 @@ The World Happiness Report is an annual publication that explores the factors co
 3.How do life expectancy and access to healthcare correlate with happiness scores?
 
 4.What is the impact of mental health services on happiness scores?
+
 5.Is there a correlation between perceived freedom to make life choices and happiness scores?
+
 6.How does GDP per capita correlate with happiness scores?
+
 7.What is the relationship between unemployment rates and happiness scores?
 
 # Tableau Storyboard to showcase analysis results
