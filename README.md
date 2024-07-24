@@ -11,8 +11,11 @@ The World Happiness Report is an annual publication that explores the factors co
 # Questions to explore -
 
 1.What countries  rank the highest in overall happiness and each of the factors contributing to happiness?
+
 2.Did any country experience a significant increase or decrease in happiness?
+
 3.How do life expectancy and access to healthcare correlate with happiness scores?
+
 4.What is the impact of mental health services on happiness scores?
 5.Is there a correlation between perceived freedom to make life choices and happiness scores?
 6.How does GDP per capita correlate with happiness scores?
